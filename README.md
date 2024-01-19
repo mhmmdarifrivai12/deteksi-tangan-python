@@ -1,3 +1,3 @@
-#Deteksi Tangan
-#Komputer Vision
+# Deteksi Tangan
+# Komputer Vision
 
